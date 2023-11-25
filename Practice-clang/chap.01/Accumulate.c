@@ -1,9 +1,10 @@
 #include <stdio.h>
-void func(<> val){
-
+void func(<> val)
+{
 }
 
-int main(){
+int main()
+{
 
     return 0;
 }

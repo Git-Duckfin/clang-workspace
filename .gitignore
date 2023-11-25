@@ -453,3 +453,4 @@ FodyWeavers.xsd
 *.exe
 
 include/**
+**/.vscode/settings.json
